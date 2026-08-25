@@ -49,7 +49,7 @@ export default function KakaoAdfit({ unit, width, height, className }: KakaoAdfi
                          data-ad-unit="${unit}" 
                          data-ad-width="${width}" 
                          data-ad-height="${height}"></ins>
-                    <script type="text/javascript" src="//t1.daumcdn.net/kas/static/ba.min.js" async></script>
+                    <script type="text/javascript" src="//t1.kakaocdn.net/kas/static/ba.min.js" async></script>
                 </body>
                 </html>
             `);
